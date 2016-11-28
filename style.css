@@ -1,0 +1,53 @@
+h1 {
+	font-size: 300;
+	color: blue;
+}
+body, a {
+    text-align: center;
+    background: url("https://images.designtrends.com/wp-content/uploads/2016/03/30064010/Mind-Blowing-City-Wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+}
+p {
+    font-size: 22px;
+}
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+
+img {
+    margin: 0 auto;
+    width: 25%;
+}
+
+#header-color-1 {
+    color: #F47C13;
+}
+#header-color-2 {
+    color: #F44F22;
+}
+#header-color-3 {
+    color: #825C12;
+}
+#header-color-4 {
+    color: #B5C2C8;
+}
+#header-color-5 {
+    color: #F48078;
+}
+#header-color-6 {
+    color: #F0E6D8;
+}
